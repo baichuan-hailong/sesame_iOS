@@ -1,0 +1,57 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - AliyunOSSiOS (2.6.0)
+  - DACircularProgress (2.3.1)
+  - DZNEmptyDataSet (1.8.1)
+  - MBProgressHUD (0.9.2)
+  - MJRefresh (3.1.12)
+  - PYPhotoBrowser (1.2.5):
+    - DACircularProgress
+    - MBProgressHUD
+    - SDWebImage
+  - QIYU_iOS_SDK (3.6.0)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - TTGTagCollectionView (1.5.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - AliyunOSSiOS (~> 2.6.0)
+  - DZNEmptyDataSet
+  - MBProgressHUD (~> 0.9.1)
+  - MJRefresh
+  - PYPhotoBrowser
+  - QIYU_iOS_SDK (~> 3.6.0)
+  - SDWebImage (~> 3.7.3)
+  - TTGTagCollectionView
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  AliyunOSSiOS: 058b038cc82000dadb8f8e3893a97243124f2898
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  PYPhotoBrowser: 832154ec5e61c2c321d9be0e69af1fda8731e5ac
+  QIYU_iOS_SDK: fb5ad344aa47d463df30fe78d2aa5b0d705d15fd
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  TTGTagCollectionView: 36769ac08e29e8ce37f7dab98014b373d2d005db
+
+PODFILE CHECKSUM: b30196efa7351e58c5990a0eb57cd7cfdd3f380d
+
+COCOAPODS: 1.0.1

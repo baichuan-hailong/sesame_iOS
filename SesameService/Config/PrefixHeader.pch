@@ -1,0 +1,74 @@
+//
+//  PrefixHeader.pch
+//  SesameService
+//
+//  Created by 娄耀文 on 17/3/15.
+//  Copyright © 2017年 anju. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "Define.h"
+#import <UIKit/UIKit.h>
+
+#import <UMMobClick/MobClick.h>
+
+
+#import "ZMLabelAttributeMange.h"
+//catecory
+#import "UIView+Extension.h"
+#import "UILabel+autoSize.h"
+#import "NSDate+MJ.h"
+#import "UIColor+Util.h"
+#import "NSArray+Util.h"
+#import "UIApplication+ActivityViewController.h"
+#import "toolClass.h"
+#import "AudioPlayer.h"
+#import "BFRegularManage.h"
+#import "UIImageView+gif.h"
+
+
+//thirdParty
+#import "AFNetworking.h"
+#import <SDWebImage/UIImageView+WebCache.h>
+#import "MBProgressHUD.h"
+#import "MJRefresh.h"
+#import "ZYBannerView.h"
+#import "UIScrollView+EmptyDataSet.h"
+#import "XMLReader.h"
+
+
+//网易七鱼
+#import "QYSDK.h"
+
+//tools
+#import "AFNetManager.h"
+#import "SSAliPayManage.h"
+#import "WXApiManager.h"
+#import "CheckTokenManage.h"
+
+//基类
+#import "ZMBasePushViewController.h"
+#import "ZMPresentViewController.h"
+
+#import "ZMLoginViewController.h"
+
+//Component Library
+#import "ZMStarComponentView.h"
+
+//Aliyun
+#import "AliyunOSSManager.h"
+
+//UM
+#import "UMSocialQQHandler.h"
+
+#import "UMSocialWechatHandler.h"
+#import "UMSocialSinaHandler.h"
+
+
+//frequent
+#import "ZMLoginViewController.h"
+#import "ZMEmptyView.h"
+
+#endif /* PrefixHeader_pch */
